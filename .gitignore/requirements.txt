@@ -1,0 +1,4 @@
+python 3.10.12
+packages:
+tkinter 8.6 for graphical users interfaces
+sqlite 3.37.2 for data base management
